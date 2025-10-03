@@ -1,8 +1,8 @@
 # 伊冬玥的作品發佈區
 
-[按類別分類](by category.md)
+[按類別分類](by-category.md)
 <br><br>
-[按系列分類](by series.md)
+[按系列分類](by-series.md)
 <br>
 
 ## 作者簡介
